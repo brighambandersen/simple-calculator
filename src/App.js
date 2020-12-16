@@ -5,7 +5,6 @@ const AppDiv = styled.div`
   font-family: sans-serif;
   text-align: center;
 `;
-// test
 
 const BigStyle = css`
   font-size: xx-large;
