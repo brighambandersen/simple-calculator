@@ -48,6 +48,8 @@ export default function App() {
       case "divide":
         result = firstOperand / secondOperand;
         break;
+      default:
+        break;
     }
     result = Math.floor(result * 1000) / 1000;
 
