@@ -1,2 +1,3 @@
 # simple-calculator
-Created with CodeSandbox
+
+[Check it out!](https://e3kgi.csb.app/)
