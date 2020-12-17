@@ -1,3 +1,3 @@
 # simple-calculator
 
-[Check it out!](https://e3kgi.csb.app/)
+[Check it out!](https://brighamband.github.io/simple-calculator/)
