@@ -2,7 +2,7 @@
   "homepage": "https://brighamband.github.io/simple-calculator",
   "name": "simple-calculator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple, reactive calculator",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
