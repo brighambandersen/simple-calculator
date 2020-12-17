@@ -1,4 +1,5 @@
 {
+  "homepage": "https://brighamband.github.io/simple-calculator",
   "name": "simple-calculator",
   "version": "1.0.0",
   "description": "",
@@ -11,9 +12,12 @@
     "styled-components": "5.2.1"
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "typescript": "3.8.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
