@@ -1,3 +1,3 @@
 # simple-calculator
 
-[Check it out!](https://brighamband.github.io/simple-calculator/)
+[Check it out!](https://brighambandersen.github.io/simple-calculator/)
